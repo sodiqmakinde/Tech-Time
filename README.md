@@ -5,7 +5,7 @@ Tech time is a web application built with Next.js that focuses on promoting the 
 
 Hosted on : (https://tech-time-talentplus.vercel.app/)
 
-![Techtime Screenshot](https://github.com/sodiqmakinde/Tech-Time/blob/main/src/assets/images/MockUp.jpg?raw=true)
+![Techtime Screenshot](https://github.com/sodiqmakinde/Tech-Time/blob/master/src/assets/images/MockUp.jpg?raw=true)
 
 ## Getting Started
 
