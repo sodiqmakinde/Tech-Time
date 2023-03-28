@@ -26,7 +26,7 @@ Hosted on : (https://tech-time-talentplus.vercel.app/)
     
     bashCopy code
     
-    `cd techtime` 
+    `cd Tech-Time` 
     
 3.  Build the Docker image
     
