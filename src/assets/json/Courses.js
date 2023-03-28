@@ -49,7 +49,7 @@ export const courses = [
   },
   {
     id: 4,
-    title: 'Hello',
+    title: 'Concepts of Business Development',
     rating: '4.8 (2.5k+ ratings)',
     courseImg: course4.src,
     duration: '2hr 30m',
